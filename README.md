@@ -10,8 +10,8 @@
   - beego is an open-source, high-performance web framework for the Go programming language.[beego](https://github.com/astaxie/beego)
   - Golang Restful API Framework for Productivity.[nirvana](https://github.com/caicloud/nirvana)
 
-  - Docker Related
-    - Simple management UI for Docker. [portainer](https://github.com/portainer/portainer)
+- Docker Related
+  - Simple management UI for Docker. [portainer](https://github.com/portainer/portainer)
 
-  - CLI
-    - A Go (golang) command line and flag parser.[kingpin](https://github.com/alecthomas/kingpin)
+- CLI
+  - A Go (golang) command line and flag parser.[kingpin](https://github.com/alecthomas/kingpin)
