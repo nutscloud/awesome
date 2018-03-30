@@ -1,0 +1,1 @@
+- Curated list of awesome lists [GOTO](https://github.com/sindresorhus/awesome)
