@@ -18,3 +18,7 @@
 
 - Network
   - An open source real-time network topology and protocols analyzer.[skydive](https://github.com/skydive-project/skydive)
+
+- Common
+  - UUID package for Go.[go.uuid](https://github.com/satori/go.uuid)
+  - Simple error handling primitives. [errors](https://github.com/pkg/errors)
