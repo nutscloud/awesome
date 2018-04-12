@@ -22,3 +22,4 @@
 - Common
   - UUID package for Go.[go.uuid](https://github.com/satori/go.uuid)
   - Simple error handling primitives. [errors](https://github.com/pkg/errors)
+  - TOML parser for Golang with reflection.[toml](https://github.com/BurntSushi/toml)
