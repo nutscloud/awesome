@@ -23,3 +23,4 @@
   - UUID package for Go.[go.uuid](https://github.com/satori/go.uuid)
   - Simple error handling primitives. [errors](https://github.com/pkg/errors)
   - TOML parser for Golang with reflection.[toml](https://github.com/BurntSushi/toml)
+  - Readline is a pure go(golang) implementation for GNU-Readline kind library.[Readline](https://github.com/chzyer/readline)
